@@ -1,0 +1,9 @@
+h1 { color: navy; text-align: center; font-size: 40px}
+h2 { color : aqua; direction: ltr; width: auto; font-style: italic; text-align:left;
+}
+p { color:  black; text-align: justify;font-size: 30px}
+h3 {color: white; text-align: center; size: 45px}
+table {border: 3px;border-collapse: collapse;}
+td,th {border: 3px solid white; padding: 3px;}
+li {color: white; font-style:  oblique; font-weight: 200; text-align:right; }
+#foo {color: white; font-size: 55px; font-family: monospace;}
